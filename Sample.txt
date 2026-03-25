@@ -1,0 +1,68 @@
+Fire Alarm System Project
+
+1. Introduction A fire alarm system is a safety device used to detect
+fire hazards such as smoke, heat, or gas and alert people through
+alarms. It helps prevent accidents and saves lives by giving early
+warning.
+
+2. Problem Statement Fire accidents in homes, industries, and public
+places can cause severe damage to life and property. Many times,
+fires are detected too late due to lack of proper monitoring
+systems.
+
+3. Proposed Solution To design a smart fire alarm system using sensors
+and microcontrollers that can detect smoke, temperature rise, or gas
+leakage and alert users immediately using a buzzer or mobile
+notification.
+
+4. Components Used
+
+- Arduino Uno / NodeMCU – Main controller
+- MQ-2 Smoke Sensor – Detects smoke and gas
+- DHT11 Sensor – Measures temperature and humidity
+- Buzzer – Produces alarm sound
+- LED – Visual alert
+- Relay Module – Controls external devices
+- Power Supply
+- Blynk App (optional)
+
+5. Working Principle The MQ-2 sensor detects smoke or gas in the
+environment. The DHT11 sensor monitors temperature changes. If smoke
+level or temperature exceeds a threshold, the buzzer turns on, LED
+glows, and notification is sent to mobile. Relay can activate safety
+systems.
+
+6. Key Features
+
+- Early fire detection
+- Real-time alerts
+- Low cost and easy installation
+- IoT-based monitoring
+- Automatic response
+
+7. Product Overview This system is a compact and efficient fire safety
+solution designed for homes, offices, and industries.
+
+8. Advantages
+
+- Prevents fire accidents
+- Saves lives and property
+- Easy to operate
+- Low maintenance
+
+9. Applications Homes, industries, schools, hospitals, and warehouses.
+
+10. Limitations
+
+- Possible false alarms
+- Needs power supply
+- Limited detection range
+
+11. Future Enhancements
+
+- AI-based prediction
+- GSM alerts
+- Automatic extinguishing system
+
+12. Conclusion The fire alarm system helps in early detection and
+prevention of fire accidents and improves safety effectively.
